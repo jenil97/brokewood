@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className="section bg-primary text-white">
       <div className="container mx-auto">
-        <div className="flex flex-col lg:flex-row justify-between border-b border-opacity-75 border-gray-700 pb-7 lg:pb-14 mb-14">
+        <div className="flex flex-col lg:flex-row justify-between border-b border-gray-700 pb-7 lg:pb-14 mb-14">
           <a className="mb-6 lg:mb-0" href="#/">
             <p className="text-3xl">Brokewood</p>
           </a>
@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
         </div>
         <p className="text-center">
-          &copy; FurniShop 2022 - All Rights Reserved.
+          &copy; Brokewood 2023 - All Rights Reserved.
         </p>
       </div>
     </footer>
